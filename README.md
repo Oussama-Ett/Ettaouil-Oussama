@@ -3,7 +3,7 @@
 Je suis étudiant en deuxième année de Master en Data Science. Passionné par l’analyse des données et la programmation, je suis particulièrement intéressé par les domaines liés au **Machine Learning**, au **Deep Learning**, à la **Computer Vision**, ainsi qu’à tout ce qui concerne le traitement des images et des vidéos.
 
 ---
-## 💻 Compétences en Langages de Programmation  
+## Langages de Programmation  
 
 Au cours de mes études, j’ai développé mes compétences en plusieurs langages de programmation en les appliquant à divers domaines, tels que le traitement des données, le traitement des images, le développement web, et la création d’applications. Parmi les langages que j’ai utilisés :  
 
