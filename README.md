@@ -73,7 +73,7 @@ Dans ce projet, j'ai utilisé le modèle pré-entraîné **ResNet-50** pour clas
 - **ResNet-50** comme modèle de base pour le fine-tuning.
 - **Dataset** : **Food-101**
   
-### **YOTRAVEL - Application web de gestion de voyages **
+### YOTRAVEL - Application web de gestion de voyages 
 
 - **Objectif** :  
   Développement d'une application web pour une agence de voyage, permettant de gérer les réservations et les services de voyage de manière organisée et intuitive. L’application permet aux utilisateurs de rechercher et de consulter des offres de voyage, avec des options de filtrage adaptées à leurs préférences.
