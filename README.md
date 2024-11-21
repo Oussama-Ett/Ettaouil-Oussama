@@ -61,7 +61,7 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
   - **YOLOv5** : Pour la détection d'objets.  
   - **Dataset** : "Moroccan Vehicle Registration Plates" disponible sur Kaggle.
 
-# FoodClassify - Classification des images de Food-101 avec Fine-Tuning de ResNet-50 🍔🥗
+### Classification des images de Food-101 avec Fine-Tuning de ResNet-50 
 
 ## Description
 
