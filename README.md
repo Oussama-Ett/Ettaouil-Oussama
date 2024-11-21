@@ -38,6 +38,5 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
 ## 🤝 Contact
 
 Pour toute question, proposition de collaboration ou échange d’idées, vous pouvez me joindre via les plateformes suivantes :
-[LinkedIn](https://www.linkedin.com/in/oussama-ettaouil/) | 📧 [Email](mailto:oussamaettaouil701@gmail.com)
-
-
+- **LinkedIn**: [Mon Profil LinkedIn](https://www.linkedin.com/in/oussama-ettaouil/)
+- **Email**: 📧 [Contactez-moi par Email](mailto:oussamaettaouil701@gmail.com)
