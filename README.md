@@ -61,6 +61,18 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
   - **YOLOv5** : Pour la détection d'objets.  
   - **Dataset** : "Moroccan Vehicle Registration Plates" disponible sur Kaggle.
 
+# FoodClassify - Classification des images de Food-101 avec Fine-Tuning de ResNet-50 🍔🥗
+
+## Description
+
+Dans ce projet, j'ai utilisé le modèle pré-entraîné **ResNet-50** pour classifier des images provenant du dataset **Food-101**, qui contient 101 catégories d'aliments. J'ai appliqué un fine-tuning du modèle afin d'adapter les poids du **ResNet-50** aux spécificités des images de nourriture et ainsi améliorer les performances de classification. Le modèle ajuste ses paramètres pour mieux classifier les catégories d'aliments, en maximisant la précision.
+
+## Technologies utilisées
+
+- **TensorFlow** et **Keras** pour l'implémentation et le fine-tuning du modèle.
+- **ResNet-50** comme modèle de base pour le fine-tuning.
+- **Dataset** : **Food-101**
+  
 ### **YOTRAVEL - Application web de gestion de voyages **
 
 - **Objectif** :  
