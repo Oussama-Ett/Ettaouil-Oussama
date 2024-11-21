@@ -3,6 +3,13 @@
 Je suis étudiant en deuxième année de Master en Data Science. Passionné par l’analyse des données et la programmation, je suis particulièrement intéressé par les domaines liés au **Machine Learning**, au **Deep Learning**, à la **Computer Vision**, ainsi qu’à tout ce qui concerne le traitement des images et des vidéos.
 
 ---
+## 🤝 Contact
+
+Pour toute question, proposition de collaboration ou échange d’idées, vous pouvez me joindre via les plateformes suivantes :
+- **LinkedIn**: [Mon Profil LinkedIn](https://www.linkedin.com/in/oussama-ettaouil/)
+- **Email**: 📧 [Contactez-moi par Email](mailto:oussamaettaouil701@gmail.com)
+
+---
 ## Langages de Programmation
 
 Au cours de mes études, j’ai développé mes compétences en plusieurs langages de programmation en les appliquant à divers domaines, tels que le traitement des données, le traitement des images, le développement web, et la création d’applications. Parmi les langages que j’ai utilisés :  
@@ -35,8 +42,4 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
 
 --- 
 
-## 🤝 Contact
 
-Pour toute question, proposition de collaboration ou échange d’idées, vous pouvez me joindre via les plateformes suivantes :
-- **LinkedIn**: [Mon Profil LinkedIn](https://www.linkedin.com/in/oussama-ettaouil/)
-- **Email**: 📧 [Contactez-moi par Email](mailto:oussamaettaouil701@gmail.com)
