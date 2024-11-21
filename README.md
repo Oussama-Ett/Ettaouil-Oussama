@@ -33,4 +33,11 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
   <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android Studio" />
 </div>
 
+--- 
+
+## 🤝 Contact
+
+Pour toute question, proposition de collaboration ou échange d’idées, vous pouvez me joindre via les plateformes suivantes :
+[LinkedIn](https://www.linkedin.com/in/oussama-ettaouil/) | 📧 [Email](mailto:oussamaettaouil701@gmail.com)
+
 
