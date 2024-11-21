@@ -41,5 +41,14 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
 </div>
 
 --- 
+## 🌟 Mes Projets 
 
+### **Extraction de la plaque marocaine avec YOLOv5 📷**
+
+- **Objectif** :  
+  Détecter et extraire les plaques d'immatriculation marocaines dans des images en utilisant YOLOv5. Le modèle localise la zone où la plaque est présente et extrait les coordonnées de cette zone.
+
+- **Technologies utilisées** :  
+  - **YOLOv5** : Pour la détection d'objets.  
+  - **Dataset** : "Moroccan Vehicle Registration Plates" disponible sur Kaggle.
 
