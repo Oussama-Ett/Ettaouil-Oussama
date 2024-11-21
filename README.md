@@ -3,7 +3,7 @@
 Je suis étudiant en deuxième année de Master en Data Science. Passionné par l’analyse des données et la programmation, je suis particulièrement intéressé par les domaines liés au **Machine Learning**, au **Deep Learning**, à la **Computer Vision**, ainsi qu’à tout ce qui concerne le traitement des images et des vidéos.
 
 ---
-## ![Code](https://img.shields.io/badge/-Code-000000?logo=code&logoColor=white&style=for-the-badge) Langages de Programmation
+## <i class="fa-solid fa-code"></i> Langages de Programmation
 
 Au cours de mes études, j’ai développé mes compétences en plusieurs langages de programmation en les appliquant à divers domaines, tels que le traitement des données, le traitement des images, le développement web, et la création d’applications. Parmi les langages que j’ai utilisés :  
 
