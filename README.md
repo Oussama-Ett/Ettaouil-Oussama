@@ -42,6 +42,15 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
 
 --- 
 ## 🌟 Mes Projets 
+### **Système de reconnaissance faciale pour la surveillance en temps réel 🚀**
+
+- **Objectif** :  
+  Développement d’un système de reconnaissance faciale en temps réel pour la surveillance, utilisant Apache Spark et le framework Kafka. Ce système est conçu pour collecter des données de circulation à partir d'une API de reconnaissance faciale en temps réel, les analyser en continu et fournir des informations instantanées sur les individus identifiés.
+
+- **Technologies utilisées** :  
+  - **Apache Spark** : Pour le traitement distribué et l’analyse en temps réel des données de reconnaissance faciale.  
+  - **Kafka** : Pour la gestion des flux de données en temps réel.  
+  - **Spring Boot** : Pour déployer une application web permettant d'afficher les résultats et d’interagir avec les données de surveillance en temps réel.
 
 ### **Extraction de la plaque marocaine avec YOLOv5 📷**
 
@@ -52,3 +61,10 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
   - **YOLOv5** : Pour la détection d'objets.  
   - **Dataset** : "Moroccan Vehicle Registration Plates" disponible sur Kaggle.
 
+### **YOTRAVEL - Application web de gestion de voyages **
+
+- **Objectif** :  
+  Développement d'une application web pour une agence de voyage, permettant de gérer les réservations et les services de voyage de manière organisée et intuitive. L’application permet aux utilisateurs de rechercher et de consulter des offres de voyage, avec des options de filtrage adaptées à leurs préférences.
+
+- **Technologies utilisées** :  
+  - **Django** : Framework web pour développer l’application.  
