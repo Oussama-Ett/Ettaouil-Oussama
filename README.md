@@ -61,16 +61,16 @@ Les frameworks sont essentiels dans mon processus de développement, car ils off
   - **YOLOv5** : Pour la détection d'objets.  
   - **Dataset** : "Moroccan Vehicle Registration Plates" disponible sur Kaggle.
 
-### Classification des images de Food-101 avec Fine-Tuning de ResNet-50 
+### Classification des images de Food-101 avec Fine-Tuning de EfficientNetB2
 
 ## Description
 
-Dans ce projet, j'ai utilisé le modèle pré-entraîné **ResNet-50** pour classifier des images provenant du dataset **Food-101**, qui contient 101 catégories d'aliments. J'ai appliqué un fine-tuning du modèle afin d'adapter les poids du **ResNet-50** aux spécificités des images de nourriture et ainsi améliorer les performances de classification. Le modèle ajuste ses paramètres pour mieux classifier les catégories d'aliments, en maximisant la précision.
+Dans ce projet, j'ai utilisé le modèle pré-entraîné **EfficientNetB2** pour classifier des images issues du dataset **Food-101**, qui contient initialement 101 catégories d'aliments. Cependant, je me suis concentré uniquement sur trois catégories spécifiques : **pizza**, **tacos** et **steak**. Pour améliorer les performances du modèle, j'ai effectué un fine-tuning en adaptant les poids d'EfficientNetB2 aux particularités de ces trois classes. Par ailleurs, j'ai intégré **des techniques d'augmentation des données** afin d'enrichir le dataset et d'améliorer la robustesse du modèle face aux variations des images, maximisant ainsi la précision de classification sur cet ensemble réduit.
 
 ## Technologies utilisées
 
 - **TensorFlow** et **Keras** pour l'implémentation et le fine-tuning du modèle.
-- **ResNet-50** comme modèle de base pour le fine-tuning.
+- **EfficientNetB2** comme modèle de base pour le fine-tuning.
 - **Dataset** : **Food-101**
   
 ### YOTRAVEL - Application web de gestion de voyages 
